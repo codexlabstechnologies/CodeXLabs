@@ -1,0 +1,55 @@
+#about
+{
+   padding-top: 50px;
+   padding-bottom: 50px;
+   color: #555;  
+}
+#about button
+{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.about-content
+{
+    padding-top: 15px;
+    font-size: 20px;
+}
+.flutter
+{
+    width: 100%;
+}
+.angular
+{
+    width: 70%;
+}
+.android
+{
+    width: 90%;
+}
+.spring-boot
+{
+    width: 100%;
+}
+.ui-design
+{
+    width: 50%;
+}
+.skills-bar p
+{
+    margin-bottom: 6px;
+    font-weight: 600;
+}
+.progress-bar
+{
+    border-radius: 16px;
+}
+.progress
+{
+    border-radius: 16px !important;
+    margin-bottom: 20px;
+}
+/* .back-color
+{
+    background-color: rgb(148, 141, 141);
+    opacity: 0.5;
+} */
